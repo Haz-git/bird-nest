@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
 
-interface Bird {
+export interface Bird {
     name: string;
     age: number;
     breed: string;

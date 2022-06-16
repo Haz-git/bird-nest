@@ -1,4 +1,4 @@
-export class birdDto {
+export class BirdDto {
   name: string;
   age: number;
   breed: string;
